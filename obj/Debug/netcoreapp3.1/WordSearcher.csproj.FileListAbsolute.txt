@@ -1,0 +1,17 @@
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.csproj.AssemblyReference.cache
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.csproj.ResolveComReference.cache
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.AssemblyInfoInputs.cache
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.AssemblyInfo.cs
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.csproj.CoreCompileInputs.cache
+D:\Codes\.NET_Projects\WordSearcher\bin\Debug\netcoreapp3.1\WordSearcher.exe
+D:\Codes\.NET_Projects\WordSearcher\bin\Debug\netcoreapp3.1\WordSearcher.deps.json
+D:\Codes\.NET_Projects\WordSearcher\bin\Debug\netcoreapp3.1\WordSearcher.runtimeconfig.json
+D:\Codes\.NET_Projects\WordSearcher\bin\Debug\netcoreapp3.1\WordSearcher.runtimeconfig.dev.json
+D:\Codes\.NET_Projects\WordSearcher\bin\Debug\netcoreapp3.1\WordSearcher.dll
+D:\Codes\.NET_Projects\WordSearcher\bin\Debug\netcoreapp3.1\WordSearcher.pdb
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.dll
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.pdb
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.genruntimeconfig.cache
+D:\Codes\.NET_Projects\WordSearcher\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+D:\Codes\.NET_Projects\WordSearcher\obj\Debug\netcoreapp3.1\WordSearcher.csproj.CopyComplete
